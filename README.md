@@ -2,8 +2,14 @@
 
 Repo with documentation and example for various integrations
 
-## Slack Integration
+## [Slack Integration](https://slack.com/)
   - Create a slack group.
   - Click on `Add a service integration`
   
 ![Imgur](http://i.imgur.com/gOZki5i.png)
+
+
+## [Travis CI](https://travis-ci.org)
+  - Build status
+  - Make account and enable github integration
+  - Add `.travis.yml` to repo
