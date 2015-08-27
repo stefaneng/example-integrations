@@ -14,3 +14,6 @@ Repo with documentation and example for various integrations
   - Build status
   - Make account and enable github integration
   - Add `.travis.yml` to repo
+
+## [Docker Builds](https://hub.docker.com)
+  - [Follow instructions here to build projects on commits](https://docs.docker.com/docker-hub/builds/)
