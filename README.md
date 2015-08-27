@@ -10,6 +10,7 @@ Repo with documentation and example for various integrations
 
 
 ## [Travis CI](https://travis-ci.org)
+[![Build Status](https://travis-ci.org/stefaneng/example-integrations.svg?branch=master)](https://travis-ci.org/stefaneng/example-integrations)
   - Build status
   - Make account and enable github integration
   - Add `.travis.yml` to repo
